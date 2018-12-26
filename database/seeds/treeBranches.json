@@ -1,0 +1,7152 @@
+[
+  {
+    "id": 5259,
+    "bbpPpid": 5259,
+    "brnm": "ABH0",
+    "name": "АТ \"А-БАНК\"",
+    "flBusiness": true,
+    "balPtype": "ГБ",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.10.1992",
+      "BreDatFString": "20.10.2007"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 1
+  },
+  {
+    "id": 5263,
+    "bbpPpid": 5259,
+    "brnm": "ABDN",
+    "name": "А-БАНК, Днепропетровск",
+    "flBusiness": false,
+    "balPtype": "Ф",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15256,
+    "bbpPpid": 5259,
+    "brnm": "A443",
+    "name": "А-БАНК, г. Винница",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15290,
+    "bbpPpid": 5259,
+    "brnm": "A472",
+    "name": "А-БАНК, г.Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15291,
+    "bbpPpid": 5259,
+    "brnm": "A473",
+    "name": "А-БАНК, г.Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15258,
+    "bbpPpid": 5259,
+    "brnm": "A445",
+    "name": "А-БАНК, г. Мукачево",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15259,
+    "bbpPpid": 5259,
+    "brnm": "A446",
+    "name": "А-БАНК, г. Никополь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "9",
+    "statusName": "9",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "27.01.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15257,
+    "bbpPpid": 5259,
+    "brnm": "A444",
+    "name": "А-БАНК, г. Черновцы",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12543,
+    "bbpPpid": 5259,
+    "brnm": "A401",
+    "name": "А-БАНК, Житомир",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12544,
+    "bbpPpid": 5259,
+    "brnm": "A402",
+    "name": "А-БАНК, Житомир",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15271,
+    "bbpPpid": 5259,
+    "brnm": "A457",
+    "name": "А-БАНК, Запорожье",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15272,
+    "bbpPpid": 5259,
+    "brnm": "A458",
+    "name": "А-БАНК, Запорожье",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 6936,
+    "bbpPpid": 15221,
+    "brnm": "ABAA",
+    "name": "А-БАНК, Киевское отделение",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.10.2007",
+      "BreDatFString": "22.10.2007"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12547,
+    "bbpPpid": 5259,
+    "brnm": "A405",
+    "name": "А-БАНК, Кировоград",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12548,
+    "bbpPpid": 5259,
+    "brnm": "A406",
+    "name": "А-БАНК, Краматорск",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15274,
+    "bbpPpid": 5259,
+    "brnm": "A460",
+    "name": "А-БАНК, Львов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15275,
+    "bbpPpid": 5259,
+    "brnm": "A461",
+    "name": "А-БАНК, Львов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12558,
+    "bbpPpid": 5259,
+    "brnm": "A416",
+    "name": "А-БАНК, Мариуполь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12559,
+    "bbpPpid": 5259,
+    "brnm": "A417",
+    "name": "А-БАНК, Мариуполь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8058,
+    "bbpPpid": 5259,
+    "brnm": "A3K1",
+    "name": "А-БАНК, отд.№ 101 г.Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8061,
+    "bbpPpid": 5259,
+    "brnm": "A3K5",
+    "name": "А-БАНК, отд.№ 95 г.Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11690,
+    "bbpPpid": 15227,
+    "brnm": "A290",
+    "name": "А-БАНК, отделение № 290",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11696,
+    "bbpPpid": 5259,
+    "brnm": "A296",
+    "name": "А-БАНК, отделение № 296",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11699,
+    "bbpPpid": 5259,
+    "brnm": "A299",
+    "name": "А-БАНК, отделение № 299",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 5267,
+    "bbpPpid": 15261,
+    "brnm": "ABIF",
+    "name": "А-БАНК, Отделение \"Станиславское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "29.10.2009",
+      "BreDatFString": "10.11.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8613,
+    "bbpPpid": 15261,
+    "brnm": "AC56",
+    "name": "А-БАНК, Отделение \"Центральное\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.08.2008",
+      "BreDatFString": "24.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15200,
+    "bbpPpid": 15221,
+    "brnm": "AK02",
+    "name": "А-БАНК, Отделение \"ЦОК № 102 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.09.2017",
+      "BreDatFString": "22.09.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8059,
+    "bbpPpid": 15221,
+    "brnm": "A3K3",
+    "name": "А-БАНК, Отделение \"ЦОК № 103 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "14.09.2016",
+      "BreDatFString": "13.09.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7888,
+    "bbpPpid": 5259,
+    "brnm": "A31C",
+    "name": "А-БАНК, Отделение \"ЦОК № 104 в г.Черкассы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.04.2010",
+      "BreDatFString": "11.05.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7919,
+    "bbpPpid": 5259,
+    "brnm": "A32C",
+    "name": "А-БАНК, Отделение \"ЦОК № 105 в г.Черкассы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.12.2010",
+      "BreDatFString": "21.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8118,
+    "bbpPpid": 5259,
+    "brnm": "AN2B",
+    "name": "А-БАНК, Отделение \"ЦОК № 106 в г.Кропивницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.08.2010",
+      "BreDatFString": "21.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7918,
+    "bbpPpid": 5259,
+    "brnm": "A32B",
+    "name": "А-БАНК, Отделение \"ЦОК № 107 в г.Кропивницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.07.2010",
+      "BreDatFString": "26.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7929,
+    "bbpPpid": 5259,
+    "brnm": "A32N",
+    "name": "А-БАНК, Отделение \"ЦОК № 108 в г.Николаев\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.06.2010",
+      "BreDatFString": "28.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15202,
+    "bbpPpid": 15221,
+    "brnm": "AK09",
+    "name": "А-БАНК, Отделение \"ЦОК № 109 г. Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "31.10.2017",
+      "BreDatFString": "07.11.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7958,
+    "bbpPpid": 5259,
+    "brnm": "A33K",
+    "name": "А-БАНК, Отделение \"ЦОК № 110 в г.Николаев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.10.2010",
+      "BreDatFString": "03.11.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7975,
+    "bbpPpid": 15226,
+    "brnm": "A343",
+    "name": "А-БАНК, Отделение \"ЦОК № 113 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "29.07.2010",
+      "BreDatFString": "09.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7976,
+    "bbpPpid": 15226,
+    "brnm": "A344",
+    "name": "А-БАНК, Отделение \"ЦОК № 114 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.08.2010",
+      "BreDatFString": "16.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7977,
+    "bbpPpid": 15226,
+    "brnm": "A345",
+    "name": "А-БАНК, Отделение \"ЦОК № 115 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.09.2010",
+      "BreDatFString": "28.09.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8388,
+    "bbpPpid": 15226,
+    "brnm": "A346",
+    "name": "А-БАНК, Отделение \"ЦОК № 116 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.09.2010",
+      "BreDatFString": "28.09.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7978,
+    "bbpPpid": 15226,
+    "brnm": "A347",
+    "name": "А-БАНК, Отделение \"ЦОК № 117 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.09.2010",
+      "BreDatFString": "04.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7979,
+    "bbpPpid": 15287,
+    "brnm": "A348",
+    "name": "А-БАНК, Отделение \"ЦОК № 118 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.06.2010",
+      "BreDatFString": "14.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7980,
+    "bbpPpid": 15287,
+    "brnm": "A349",
+    "name": "А-БАНК, Отделение \"ЦОК № 119 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.09.2010",
+      "BreDatFString": "14.09.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8294,
+    "bbpPpid": 15221,
+    "brnm": "AN7K",
+    "name": "А-БАНК, Отделение \"ЦОК № 11 в г.Киев\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.10.2008",
+      "BreDatFString": "26.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8001,
+    "bbpPpid": 15287,
+    "brnm": "A350",
+    "name": "А-БАНК, Отделение \"ЦОК № 120 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.07.2010",
+      "BreDatFString": "09.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7892,
+    "bbpPpid": 5259,
+    "brnm": "A31G",
+    "name": "А-БАНК, Отделение \"ЦОК № 121 в г.Житомир\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "14.07.2010",
+      "BreDatFString": "24.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8129,
+    "bbpPpid": 5259,
+    "brnm": "AN2M",
+    "name": "А-БАНК, Отделение \"ЦОК № 122 в г.Житомир\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.10.2010",
+      "BreDatFString": "26.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8204,
+    "bbpPpid": 5259,
+    "brnm": "AN4X",
+    "name": "А-БАНК, Отделение \"ЦОК № 123 в г.Хмельницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.06.2010",
+      "BreDatFString": "28.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8373,
+    "bbpPpid": 5259,
+    "brnm": "ANEX",
+    "name": "А-БАНК, Отделение \"ЦОК № 124 в г.Изяслав\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "09.07.2010",
+      "BreDatFString": "20.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7906,
+    "bbpPpid": 5259,
+    "brnm": "A31X",
+    "name": "А-БАНК, Отделение \"ЦОК № 125 в г.Хмельницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "09.07.2010",
+      "BreDatFString": "19.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7921,
+    "bbpPpid": 15295,
+    "brnm": "A32E",
+    "name": "А-БАНК, Отделение \"ЦОК № 126 в г.Черновцы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.08.2010",
+      "BreDatFString": "29.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8369,
+    "bbpPpid": 15295,
+    "brnm": "ANES",
+    "name": "А-БАНК, Отделение \"ЦОК № 127 в г.Черновцы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.12.2010",
+      "BreDatFString": "20.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7903,
+    "bbpPpid": 15295,
+    "brnm": "A31T",
+    "name": "А-БАНК, Отделение \"ЦОК № 128 в г.Тернополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "25.05.2010",
+      "BreDatFString": "04.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7987,
+    "bbpPpid": 15261,
+    "brnm": "A34I",
+    "name": "А-БАНК, Отделение \"ЦОК № 130 в г.Ивано-Франковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.06.2010",
+      "BreDatFString": "28.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7956,
+    "bbpPpid": 15261,
+    "brnm": "A33I",
+    "name": "А-БАНК, Отделение \"ЦОК № 131 в г.Ивано-Франковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.07.2010",
+      "BreDatFString": "02.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7935,
+    "bbpPpid": 15223,
+    "brnm": "A32V",
+    "name": "А-БАНК, Отделение \"ЦОК № 134 в г.Луцк\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.06.2010",
+      "BreDatFString": "28.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7910,
+    "bbpPpid": 15225,
+    "brnm": "A322",
+    "name": "А-БАНК, Отделение \"ЦОК № 136 в г.Львов\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "20.07.2010",
+      "BreDatFString": "20.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8016,
+    "bbpPpid": 15225,
+    "brnm": "A35L",
+    "name": "А-БАНК, Отделение \"ЦОК № 138 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.11.2010",
+      "BreDatFString": "07.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8000,
+    "bbpPpid": 15224,
+    "brnm": "A34Z",
+    "name": "А-БАНК, Отделение \"ЦОК № 13 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.03.2009",
+      "BreDatFString": "16.03.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7901,
+    "bbpPpid": 15223,
+    "brnm": "A31R",
+    "name": "А-БАНК, Отделение \"ЦОК № 141 в г.Ровно\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.05.2010",
+      "BreDatFString": "14.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7932,
+    "bbpPpid": 15223,
+    "brnm": "A32R",
+    "name": "А-БАНК, Отделение \"ЦОК № 142 в г.Ровно\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.06.2010",
+      "BreDatFString": "04.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7992,
+    "bbpPpid": 15223,
+    "brnm": "A34P",
+    "name": "А-БАНК, Отделение \"ЦОК № 143 в г.Ровно\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.09.2010",
+      "BreDatFString": "02.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7942,
+    "bbpPpid": 15283,
+    "brnm": "A332",
+    "name": "А-БАНК, Отделение \"ЦОК № 144 в г.Ужгород\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.07.2010",
+      "BreDatFString": "31.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7944,
+    "bbpPpid": 15283,
+    "brnm": "A335",
+    "name": "А-БАНК, Отделение \"ЦОК №145 в г.Ужгород\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.02.2012",
+      "BreDatFString": "14.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8378,
+    "bbpPpid": 15283,
+    "brnm": "A31M",
+    "name": "А-БАНК, Отделение \"ЦОК № 146 в г.Мукачево\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.06.2010",
+      "BreDatFString": "21.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7946,
+    "bbpPpid": 15222,
+    "brnm": "A337",
+    "name": "А-БАНК, Отделение \"ЦОК № 153 в г.Днепр\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "10.01.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8148,
+    "bbpPpid": 5259,
+    "brnm": "AN38",
+    "name": "А-БАНК, Отделение \"ЦОК № 155 в г.Александрия\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.12.2010",
+      "BreDatFString": "18.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8046,
+    "bbpPpid": 15289,
+    "brnm": "A3D8",
+    "name": "А-БАНК, Отделение \"ЦОК № 157 в г.Краматорск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.10.2010",
+      "BreDatFString": "23.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8047,
+    "bbpPpid": 15289,
+    "brnm": "A3D9",
+    "name": "А-БАНК, Отделение \"ЦОК № 158 в г.Краматорск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "02.02.2011",
+      "BreDatFString": "12.02.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7966,
+    "bbpPpid": 15295,
+    "brnm": "A33T",
+    "name": "А-БАНК, Отделение \"ЦОК № 162 в г.Тернополь\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "02.03.2011",
+      "BreDatFString": "12.03.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8008,
+    "bbpPpid": 5259,
+    "brnm": "A358",
+    "name": "А-БАНК, Отделение \"ЦОК № 163 в г.Житомир\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.01.2011",
+      "BreDatFString": "21.01.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7973,
+    "bbpPpid": 5259,
+    "brnm": "A341",
+    "name": "А-БАНК, Отделение \"ЦОК № 164 в г.Сумы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.05.2011",
+      "BreDatFString": "28.05.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "O",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8201,
+    "bbpPpid": 5259,
+    "brnm": "AN4T",
+    "name": "А-БАНК, Отделение \"ЦОК № 167 в г.Нетешин\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.06.2011",
+      "BreDatFString": "03.07.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8296,
+    "bbpPpid": 15289,
+    "brnm": "AN7M",
+    "name": "А-БАНК, Отделение \"ЦОК № 168 в г.Мариуполь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.01.2011",
+      "BreDatFString": "29.01.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7931,
+    "bbpPpid": 15223,
+    "brnm": "A32P",
+    "name": "А-БАНК, Отделение \"ЦОК № 169 в г.Ровно\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.12.2010",
+      "BreDatFString": "20.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7952,
+    "bbpPpid": 15225,
+    "brnm": "A33D",
+    "name": "А-БАНК, Отделение \"ЦОК № 171 в г.Дрогобыч\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.04.2011",
+      "BreDatFString": "01.05.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7898,
+    "bbpPpid": 15226,
+    "brnm": "A31O",
+    "name": "А-БАНК, Отделение \"ЦОК № 172 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.03.2011",
+      "BreDatFString": "01.04.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8181,
+    "bbpPpid": 5259,
+    "brnm": "AN48",
+    "name": "А-БАНК, Отделение \"ЦОК № 173 в г.Житомир\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.05.2011",
+      "BreDatFString": "28.05.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8125,
+    "bbpPpid": 15222,
+    "brnm": "AN2I",
+    "name": "А-БАНК, Отделение \"ЦОК №18  в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.02.2009",
+      "BreDatFString": "20.02.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12573,
+    "bbpPpid": 15283,
+    "brnm": "A431",
+    "name": "А-БАНК, Отделение \"ЦОК №1  в г.Ужгород\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.12.2015",
+      "BreDatFString": "15.12.2015"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11601,
+    "bbpPpid": 15288,
+    "brnm": "A201",
+    "name": "А-БАНК, Отделение \"ЦОК № 201 в г.Полтава\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11602,
+    "bbpPpid": 15221,
+    "brnm": "A202",
+    "name": "А-БАНК, Отделение \"ЦОК № 202 в г.Чернигов\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.08.2011",
+      "BreDatFString": "14.08.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11603,
+    "bbpPpid": 5259,
+    "brnm": "A203",
+    "name": "А-БАНК, Отделение \"ЦОК № 203 в г.Николаев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.05.2011",
+      "BreDatFString": "21.05.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11605,
+    "bbpPpid": 15223,
+    "brnm": "A205",
+    "name": "А-БАНК, Отделение \"ЦОК № 205 в г.Нововолынск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.08.2011",
+      "BreDatFString": "29.08.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11606,
+    "bbpPpid": 5259,
+    "brnm": "A206",
+    "name": "А-БАНК, Отделение \"ЦОК № 206 в г.Николаев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.07.2011",
+      "BreDatFString": "18.07.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11608,
+    "bbpPpid": 5259,
+    "brnm": "A208",
+    "name": "А-БАНК, Отделение \"ЦОК № 208 в г.Староконстантинов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.09.2011",
+      "BreDatFString": "22.09.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11609,
+    "bbpPpid": 15226,
+    "brnm": "A209",
+    "name": "А-БАНК, Отделение \"ЦОК № 209 в г.Одесcа\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "07.09.2011",
+      "BreDatFString": "17.09.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11610,
+    "bbpPpid": 5259,
+    "brnm": "A210",
+    "name": "А-БАНК, Отделение \"ЦОК № 210 в г.Херсон\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.07.2011",
+      "BreDatFString": "25.07.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11613,
+    "bbpPpid": 15221,
+    "brnm": "A213",
+    "name": "А-БАНК, Отделение \"ЦОК № 213 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "20.07.2011",
+      "BreDatFString": "30.07.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11616,
+    "bbpPpid": 15289,
+    "brnm": "A216",
+    "name": "А-БАНК, Отделение \"ЦОК № 216 в г.Бахмут\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11618,
+    "bbpPpid": 15225,
+    "brnm": "A218",
+    "name": "А-БАНК, Отделение \"ЦОК № 218 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.02.2012",
+      "BreDatFString": "14.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11621,
+    "bbpPpid": 15225,
+    "brnm": "A221",
+    "name": "А-БАНК, Отделение \"ЦОК № 221 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.05.2012",
+      "BreDatFString": "22.05.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11622,
+    "bbpPpid": 5259,
+    "brnm": "A222",
+    "name": "А-БАНК, Отделение \"ЦОК № 222 в г.Николаев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.08.2011",
+      "BreDatFString": "22.08.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11623,
+    "bbpPpid": 15287,
+    "brnm": "A223",
+    "name": "А-БАНК, Отделение \"ЦОК № 223 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11624,
+    "bbpPpid": 15287,
+    "brnm": "A224",
+    "name": "А-БАНК, Отделение \"ЦОК № 224 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11627,
+    "bbpPpid": 15221,
+    "brnm": "A227",
+    "name": "А-БАНК, Отделение \"ЦОК № 227 в г.Белая Церковь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.10.2011",
+      "BreDatFString": "31.10.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11628,
+    "bbpPpid": 5259,
+    "brnm": "A228",
+    "name": "А-БАНК, Отделение \"ЦОК № 228 в г.Смела\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.05.2012",
+      "BreDatFString": "22.05.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11632,
+    "bbpPpid": 15226,
+    "brnm": "A232",
+    "name": "А-БАНК, Отделение \"ЦОК № 232 в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "27.11.2015",
+      "BreDatFString": "03.10.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "Y",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11633,
+    "bbpPpid": 5259,
+    "brnm": "A233",
+    "name": "А-БАНК, Отделение \"ЦОК № 233 в г.Новая Каховка\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.09.2011",
+      "BreDatFString": "10.10.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11634,
+    "bbpPpid": 5259,
+    "brnm": "A234",
+    "name": "А-БАНК, Отделение \"ЦОК № 234 в г.Херсон\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.09.2011",
+      "BreDatFString": "10.10.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11637,
+    "bbpPpid": 15225,
+    "brnm": "A237",
+    "name": "А-БАНК, Отделение \"ЦОК № 237 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "07.03.2012",
+      "BreDatFString": "19.03.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11638,
+    "bbpPpid": 15295,
+    "brnm": "A238",
+    "name": "А-БАНК, Отделение \"ЦОК № 238 в г.Тернополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.01.2012",
+      "BreDatFString": "30.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11639,
+    "bbpPpid": 5259,
+    "brnm": "A239",
+    "name": "А-БАНК, Отделение \"ЦОК № 239 в г.Черкассы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.11.2011",
+      "BreDatFString": "14.11.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11643,
+    "bbpPpid": 15221,
+    "brnm": "A243",
+    "name": "А-БАНК, Отделение \"ЦОК № 243 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.01.2012",
+      "BreDatFString": "17.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11644,
+    "bbpPpid": 15227,
+    "brnm": "A244",
+    "name": "А-БАНК, Отделение \"ЦОК № 244 в г.Харьков\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "05.11.2015",
+      "BreDatFString": "13.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11645,
+    "bbpPpid": 5259,
+    "brnm": "A245",
+    "name": "А-БАНК, Отделение \"ЦОК № 245 в г.Кропивницкий\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11646,
+    "bbpPpid": 15221,
+    "brnm": "A246",
+    "name": "А-БАНК, Отделение \"ЦОК № 246 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.01.2012",
+      "BreDatFString": "30.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11647,
+    "bbpPpid": 5259,
+    "brnm": "A247",
+    "name": "А-БАНК, Отделение \"ЦОК № 247 в г.Херсон\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11648,
+    "bbpPpid": 15224,
+    "brnm": "A248",
+    "name": "А-БАНК, Отделение \"ЦОК № 248 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.01.2012",
+      "BreDatFString": "22.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11649,
+    "bbpPpid": 15288,
+    "brnm": "A249",
+    "name": "А-БАНК, Отделение \"ЦОК № 249 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.02.2012",
+      "BreDatFString": "27.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8347,
+    "bbpPpid": 15222,
+    "brnm": "ANE4",
+    "name": "А-БАНК, Отделение \"ЦОК №24 в г.Днепр",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "05.08.2008",
+      "BreDatFString": "19.08.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11650,
+    "bbpPpid": 5259,
+    "brnm": "A250",
+    "name": "А-БАНК, Отделение \"ЦОК № 250 в г.Ромны\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.12.2011",
+      "BreDatFString": "04.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11651,
+    "bbpPpid": 15224,
+    "brnm": "A251",
+    "name": "А-БАНК, Отделение \"ЦОК № 251 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.03.2012",
+      "BreDatFString": "04.04.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11652,
+    "bbpPpid": 15295,
+    "brnm": "A252",
+    "name": "А-БАНК, Отделение \"ЦОК № 252 в г.Черновцы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.01.2012",
+      "BreDatFString": "30.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11659,
+    "bbpPpid": 5259,
+    "brnm": "A259",
+    "name": "А-БАНК, Отделение \"ЦОК № 259 в г.Волочиск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.02.2012",
+      "BreDatFString": "27.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11660,
+    "bbpPpid": 15226,
+    "brnm": "A260",
+    "name": "А-БАНК, Отделение \"ЦОК № 260 в г.Белгород-Днестровский\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.01.2012",
+      "BreDatFString": "24.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11661,
+    "bbpPpid": 15224,
+    "brnm": "A261",
+    "name": "А-БАНК, Отделение \"ЦОК № 261 в г.Запорожье\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.01.2012",
+      "BreDatFString": "17.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "O",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11662,
+    "bbpPpid": 5259,
+    "brnm": "A262",
+    "name": "А-БАНК, Отделение \"ЦОК № 262 в г.Хмельницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.03.2012",
+      "BreDatFString": "26.03.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11663,
+    "bbpPpid": 5259,
+    "brnm": "A263",
+    "name": "А-БАНК, Отделение \"ЦОК № 263 в г.Южноукраинск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.02.2012",
+      "BreDatFString": "28.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11664,
+    "bbpPpid": 15225,
+    "brnm": "A264",
+    "name": "А-БАНК, Отделение \"ЦОК № 264 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.12.2013",
+      "BreDatFString": "13.12.2013"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "T",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11666,
+    "bbpPpid": 15227,
+    "brnm": "A266",
+    "name": "А-БАНК, Отделение \"ЦОК № 266 в г.Харьков\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.02.2012",
+      "BreDatFString": "14.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11667,
+    "bbpPpid": 5259,
+    "brnm": "A267",
+    "name": "А-БАНК, Отделение \"ЦОК № 267 в г.Каховка\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.01.2012",
+      "BreDatFString": "14.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11668,
+    "bbpPpid": 15227,
+    "brnm": "A268",
+    "name": "А-БАНК, Отделение \"ЦОК № 268 в г.Изюм\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.04.2012",
+      "BreDatFString": "23.04.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11670,
+    "bbpPpid": 15222,
+    "brnm": "A270",
+    "name": "А-БАНК, Отделение \"ЦОК № 270 в г.Новомосковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "27.08.2012",
+      "BreDatFString": "07.09.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11672,
+    "bbpPpid": 5259,
+    "brnm": "A272",
+    "name": "А-БАНК, Отделение \"ЦОК № 272 в г.Шепетовка\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "14.09.2012",
+      "BreDatFString": "24.09.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11673,
+    "bbpPpid": 15288,
+    "brnm": "A273",
+    "name": "А-БАНК, Отделение \"ЦОК № 273 в г.Миргород\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "27.08.2012",
+      "BreDatFString": "07.09.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11675,
+    "bbpPpid": 15222,
+    "brnm": "A275",
+    "name": "А-БАНК, Отделение \"ЦОК № 275 в г.Днепр",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.05.2012",
+      "BreDatFString": "28.05.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11676,
+    "bbpPpid": 5259,
+    "brnm": "A276",
+    "name": "А-БАНК, отделение \"ЦОК №276 в г.Херсон\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.11.2013",
+      "BreDatFString": "09.08.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11678,
+    "bbpPpid": 15225,
+    "brnm": "A278",
+    "name": "А-БАНК, Отделение \"ЦОК №278 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "02.11.2016",
+      "BreDatFString": "08.11.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11679,
+    "bbpPpid": 15221,
+    "brnm": "A279",
+    "name": "А-БАНК, Отделение \"ЦОК № 279 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.08.2012",
+      "BreDatFString": "20.08.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11680,
+    "bbpPpid": 15224,
+    "brnm": "A280",
+    "name": "А-БАНК, Отделение \"ЦОК № 280 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.02.2012",
+      "BreDatFString": "20.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11681,
+    "bbpPpid": 5259,
+    "brnm": "A281",
+    "name": "А-БАНК, Отделение \"ЦОК № 281 в г.Каменское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.02.2012",
+      "BreDatFString": "20.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11682,
+    "bbpPpid": 5259,
+    "brnm": "A282",
+    "name": "А-БАНК, Отделение \"ЦОК № 282 в г.Херсон\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.03.2017",
+      "BreDatFString": "14.05.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11685,
+    "bbpPpid": 5259,
+    "brnm": "A285",
+    "name": "А-БАНК, Отделение \"ЦОК № 285 в г.Никополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2011",
+      "BreDatFString": "10.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11686,
+    "bbpPpid": 15224,
+    "brnm": "A286",
+    "name": "А-БАНК, Отделение \"ЦОК № 286 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.01.2012",
+      "BreDatFString": "24.01.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11689,
+    "bbpPpid": 15261,
+    "brnm": "A289",
+    "name": "А-БАНК, Отделение \"ЦОК № 289 в г.Долина\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.04.2012",
+      "BreDatFString": "30.04.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "O",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11692,
+    "bbpPpid": 15224,
+    "brnm": "A292",
+    "name": "А-БАНК, Отделение \"ЦОК № 292 в г.Мелитополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.05.2012",
+      "BreDatFString": "04.06.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11693,
+    "bbpPpid": 15225,
+    "brnm": "A293",
+    "name": "А-БАНК, Отделение \"ЦОК №293 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.08.2016",
+      "BreDatFString": "06.09.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11694,
+    "bbpPpid": 5259,
+    "brnm": "A294",
+    "name": "А-БАНК, Отделение \"ЦОК № 294 в г.Славута\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.09.2012",
+      "BreDatFString": "08.10.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11698,
+    "bbpPpid": 5259,
+    "brnm": "A298",
+    "name": "А-БАНК, Отделение \"ЦОК № 298 в г.Черкассы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.03.2017",
+      "BreDatFString": "14.05.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8231,
+    "bbpPpid": 15294,
+    "brnm": "AN5Q",
+    "name": "А-БАНК, Отделение \"ЦОК № 2 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.01.2009",
+      "BreDatFString": "03.02.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7923,
+    "bbpPpid": 15283,
+    "brnm": "A32G",
+    "name": "А-БАНК, Отделение \"ЦОК № 2 в г.Ужгород\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.03.2010",
+      "BreDatFString": "06.04.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8290,
+    "bbpPpid": 5259,
+    "brnm": "AN7G",
+    "name": "А-БАНК, Отделение \"ЦОК № 2 г.Житомир\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "27.01.2009",
+      "BreDatFString": "07.02.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7878,
+    "bbpPpid": 15224,
+    "brnm": "A311",
+    "name": "А-БАНК, Отделение \"ЦОК № 311 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.03.2017",
+      "BreDatFString": "11.05.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7881,
+    "bbpPpid": 5259,
+    "brnm": "A314",
+    "name": "А-БАНК, Отделение \"ЦОК № 314 в г.Токмак\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.03.2017",
+      "BreDatFString": "16.05.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8384,
+    "bbpPpid": 5259,
+    "brnm": "A334",
+    "name": "А-БАНК, отделение \"ЦОК №334 в г.Херсон\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.11.2013",
+      "BreDatFString": "03.12.2013"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7945,
+    "bbpPpid": 15222,
+    "brnm": "A336",
+    "name": "А-БАНК, Отделение \"ЦОК №336  в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.03.2016",
+      "BreDatFString": "15.03.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7947,
+    "bbpPpid": 15222,
+    "brnm": "A338",
+    "name": "А-БАНК, Отделение \"ЦОК №338 в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "14.09.2016",
+      "BreDatFString": "13.09.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8236,
+    "bbpPpid": 15227,
+    "brnm": "AN5W",
+    "name": "А-БАНК, Отделение \"ЦОК № 3 в г.Харьков\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.09.2008",
+      "BreDatFString": "11.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12542,
+    "bbpPpid": 15287,
+    "brnm": "A400",
+    "name": "А-БАНК, Отделение \"ЦОК № 400 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.11.2016",
+      "BreDatFString": "02.11.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12545,
+    "bbpPpid": 15261,
+    "brnm": "A403",
+    "name": "А-БАНК, Отделение \"ЦОК № 403 в г.Ивано-Франковск\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.08.2012",
+      "BreDatFString": "20.08.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12546,
+    "bbpPpid": 5259,
+    "brnm": "A404",
+    "name": "А-БАНК, Отделение \"ЦОК № 404 в г.Кропивницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.03.2018",
+      "BreDatFString": "12.04.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12550,
+    "bbpPpid": 15288,
+    "brnm": "A408",
+    "name": "А-БАНК, отделение \"ЦОК №408 в г.Кременчуг\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "27.11.2015",
+      "BreDatFString": "08.12.2015"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12552,
+    "bbpPpid": 15294,
+    "brnm": "A410",
+    "name": "А-БАНК, Отделение \"ЦОК №410  в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.01.2016",
+      "BreDatFString": "06.02.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12553,
+    "bbpPpid": 15294,
+    "brnm": "A411",
+    "name": "А-БАНК, отделение \"ЦОК №411 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.11.2013",
+      "BreDatFString": "27.11.2013"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12554,
+    "bbpPpid": 15294,
+    "brnm": "A412",
+    "name": "А-БАНК, Отделение \"ЦОК №412  в г.Кривой Рог",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.01.2016",
+      "BreDatFString": "06.02.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "C",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12556,
+    "bbpPpid": 15223,
+    "brnm": "A414",
+    "name": "А-БАНК, Отделение \"ЦОК № 414 в г.Луцк\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.06.2010",
+      "BreDatFString": "27.10.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12562,
+    "bbpPpid": 15226,
+    "brnm": "A420",
+    "name": "А-БАНК, Отделение \"ЦОК №420  в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.12.2015",
+      "BreDatFString": "04.01.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12563,
+    "bbpPpid": 15288,
+    "brnm": "A421",
+    "name": "А-БАНК, Отделение \"ЦОК №421 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.05.2016",
+      "BreDatFString": "24.05.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12564,
+    "bbpPpid": 15223,
+    "brnm": "A422",
+    "name": "А-БАНК, Отделение \"ЦОК №422  в г.Ровно",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.01.2016",
+      "BreDatFString": "29.01.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12569,
+    "bbpPpid": 5259,
+    "brnm": "A427",
+    "name": "А-БАНК, Отделение \"ЦОК №427 в г.Сумы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.10.2016",
+      "BreDatFString": "08.11.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12571,
+    "bbpPpid": 15295,
+    "brnm": "A429",
+    "name": "А-БАНК, Отделение \"ЦОК № 429 в г.Тернополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.03.2018",
+      "BreDatFString": "23.03.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12576,
+    "bbpPpid": 5259,
+    "brnm": "A434",
+    "name": "А-БАНК, Отделение \"ЦОК №434 В г.Черкасы",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.10.2017",
+      "BreDatFString": "11.10.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12579,
+    "bbpPpid": 15295,
+    "brnm": "A437",
+    "name": "А-БАНК, Отделение \"ЦОК №437  в г.Черновцы",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.12.2015",
+      "BreDatFString": "07.01.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12580,
+    "bbpPpid": 15295,
+    "brnm": "A438",
+    "name": "А-БАНК, Отделение \"ЦОК № 438 в г.Черновцы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.02.2018",
+      "BreDatFString": "27.12.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15252,
+    "bbpPpid": 15287,
+    "brnm": "A440",
+    "name": "А-Банк, Отделение \"ЦОК №440 в г.Жмеренка\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.11.2017",
+      "BreDatFString": "01.12.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15253,
+    "bbpPpid": 15287,
+    "brnm": "A441",
+    "name": "А-БАНК, Отделение \"ЦОК №441 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.05.2018",
+      "BreDatFString": "07.06.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15254,
+    "bbpPpid": 15283,
+    "brnm": "A442",
+    "name": "А-Банк, Отделение \"ЦОК №442 в г. Ужгород.\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "31.10.2017",
+      "BreDatFString": "07.11.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15260,
+    "bbpPpid": 15294,
+    "brnm": "A447",
+    "name": "А-БАНК, Отделение \"ЦОК № 447 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.11.2017",
+      "BreDatFString": "18.10.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15262,
+    "bbpPpid": 5259,
+    "brnm": "A448",
+    "name": "А-Банк, Отделение \"ЦОК №448 В г.ДНЕПР\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.12.2017",
+      "BreDatFString": "12.01.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15263,
+    "bbpPpid": 5259,
+    "brnm": "A449",
+    "name": "А-БАНК, Отделение \"ЦОК №449 в г.Каменское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.02.2018",
+      "BreDatFString": "15.02.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15265,
+    "bbpPpid": 15222,
+    "brnm": "A451",
+    "name": "А-БАНК, Отделение \"ЦОК № 451 в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.07.2018",
+      "BreDatFString": "08.08.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15266,
+    "bbpPpid": 15222,
+    "brnm": "A452",
+    "name": "А-БАНК, Отделение \"ЦОК № 452 в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.09.2018",
+      "BreDatFString": "27.09.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15267,
+    "bbpPpid": 15227,
+    "brnm": "A453",
+    "name": "А-БАНК, Отделение \"ЦОК № 453 в г.Харьков\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.02.2018",
+      "BreDatFString": "01.03.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15268,
+    "bbpPpid": 15227,
+    "brnm": "A454",
+    "name": "А-БАНК, Отделение \"ЦОК №454 В М.ХАРЬКОВ\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.09.2018",
+      "BreDatFString": "18.09.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15270,
+    "bbpPpid": 15224,
+    "brnm": "A456",
+    "name": "А-БАНК, Отделение \"ЦОК № 456 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.01.2018",
+      "BreDatFString": "15.01.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15273,
+    "bbpPpid": 15225,
+    "brnm": "A459",
+    "name": "А-БАНК, Отделение \"ЦОК №459 в г.Львов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.04.2018",
+      "BreDatFString": "24.04.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15279,
+    "bbpPpid": 15283,
+    "brnm": "A465",
+    "name": "А-Банк, Отделение \"ЦОК №465 в г.Мукачево",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.12.2017",
+      "BreDatFString": "27.12.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15280,
+    "bbpPpid": 15283,
+    "brnm": "A466",
+    "name": "А-БАНК, Отделение \"ЦОК № 466 в г.Мукачево\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.02.2018",
+      "BreDatFString": "30.01.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15284,
+    "bbpPpid": 5259,
+    "brnm": "A468",
+    "name": "А-БАНК, Отделение \"ЦОК №468 в г.Херсон\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.12.2009",
+      "BreDatFString": "20.10.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15292,
+    "bbpPpid": 15221,
+    "brnm": "A471",
+    "name": "А-БАНК, Отделение \"ЦОК № 471 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.09.2018",
+      "BreDatFString": "18.10.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8330,
+    "bbpPpid": 15289,
+    "brnm": "AN9M",
+    "name": "А-БАНК, Отделение \"ЦОК № 4 в г.Мариуполь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.09.2008",
+      "BreDatFString": "22.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15194,
+    "bbpPpid": 15222,
+    "brnm": "AD56",
+    "name": "А-БАНК, Отделение \"ЦОК № 56 г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.09.2017",
+      "BreDatFString": "03.10.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8350,
+    "bbpPpid": 15222,
+    "brnm": "ANE7",
+    "name": "А-БАНК, Отделение \"ЦОК № 57 в г.Днепр\"  \"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.09.2010",
+      "BreDatFString": "05.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15264,
+    "bbpPpid": 15222,
+    "brnm": "A450",
+    "name": "А-БАНК, Отделение \"ЦОК № 58 в г.Новомосковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.12.2017",
+      "BreDatFString": "19.01.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8351,
+    "bbpPpid": 15222,
+    "brnm": "ANE9",
+    "name": "А-БАНК, Отделение \"ЦОК №59  в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "04.02.2011",
+      "BreDatFString": "15.02.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8723,
+    "bbpPpid": 15288,
+    "brnm": "A364",
+    "name": "А-БАНК, Отделение \"ЦОК № 5 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.09.2008",
+      "BreDatFString": "29.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7904,
+    "bbpPpid": 5259,
+    "brnm": "A31U",
+    "name": "А-БАНК, Отделение \"ЦОК № 5 в г.Сумы\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.10.2008",
+      "BreDatFString": "26.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8343,
+    "bbpPpid": 15222,
+    "brnm": "ANE0",
+    "name": "А-БАНК, Отделение \"ЦОК № 60 в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.12.2010",
+      "BreDatFString": "12.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "B",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8354,
+    "bbpPpid": 15222,
+    "brnm": "ANEC",
+    "name": "А-БАНК, Отделение \"ЦОК №61  в г.Днепр\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "25.03.2011",
+      "BreDatFString": "04.04.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8420,
+    "bbpPpid": 5259,
+    "brnm": "ANEJ",
+    "name": "А-БАНК, Отделение \"ЦОК № 62 в г.Каменское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.02.2012",
+      "BreDatFString": "28.02.2012"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7941,
+    "bbpPpid": 5259,
+    "brnm": "A331",
+    "name": "А-БАНК, Отделение \"ЦОК № 63 в г.Каменское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.08.2010",
+      "BreDatFString": "17.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7993,
+    "bbpPpid": 15294,
+    "brnm": "A34Q",
+    "name": "А-БАНК, Отделение \"ЦОК № 64 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.06.2010",
+      "BreDatFString": "05.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7963,
+    "bbpPpid": 15294,
+    "brnm": "A33Q",
+    "name": "А-БАНК, Отделение \"ЦОК № 65 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.06.2010",
+      "BreDatFString": "05.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7914,
+    "bbpPpid": 15294,
+    "brnm": "A326",
+    "name": "А-БАНК, Отделение \"ЦОК № 66 в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "15.09.2010",
+      "BreDatFString": "28.09.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7971,
+    "bbpPpid": 15224,
+    "brnm": "A33Z",
+    "name": "А-БАНК, Отделение \"ЦОК № 67 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.08.2010",
+      "BreDatFString": "21.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 9784,
+    "bbpPpid": 15224,
+    "brnm": "A36Z",
+    "name": "А-БАНК, Отделение \"ЦОК № 68 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.08.2010",
+      "BreDatFString": "21.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7948,
+    "bbpPpid": 15224,
+    "brnm": "A339",
+    "name": "А-БАНК, Отделение \"ЦОК № 69 в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "11.05.2011",
+      "BreDatFString": "21.05.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15197,
+    "bbpPpid": 5259,
+    "brnm": "AZ35",
+    "name": "А-БАНК, Отделение \"ЦОК № 70 в г.Бердянск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.06.2017",
+      "BreDatFString": "17.06.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7950,
+    "bbpPpid": 5259,
+    "brnm": "A33B",
+    "name": "А-БАНК, Отделение \"ЦОК № 71 в г.Бердянск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "25.05.2010",
+      "BreDatFString": "07.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7982,
+    "bbpPpid": 5259,
+    "brnm": "A34B",
+    "name": "А-БАНК, Отделение \"ЦОК № 72 в г.Бердянск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.03.2017",
+      "BreDatFString": "05.04.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7928,
+    "bbpPpid": 15289,
+    "brnm": "A32M",
+    "name": "А-БАНК, Отделение \"ЦОК № 78 в г.Мариуполь\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "14.07.2010",
+      "BreDatFString": "25.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7960,
+    "bbpPpid": 15289,
+    "brnm": "A33M",
+    "name": "А-БАНК, Отделение \"ЦОК № 79 в г.Мариуполь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.09.2010",
+      "BreDatFString": "28.09.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15250,
+    "bbpPpid": 15261,
+    "brnm": "ANI7",
+    "name": "А-БАНК, Отделение \"ЦОК №7 в г. Ивано-Франковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.08.2017",
+      "BreDatFString": "17.08.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8053,
+    "bbpPpid": 15227,
+    "brnm": "A3H6",
+    "name": "А-БАНК, Отделение \"ЦОК № 82 в г.Харьков\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "06.08.2010",
+      "BreDatFString": "17.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8054,
+    "bbpPpid": 15227,
+    "brnm": "A3H7",
+    "name": "А-БАНК, Отделение \"ЦОК № 83 в г.Харьков\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "09.07.2010",
+      "BreDatFString": "20.08.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8055,
+    "bbpPpid": 15227,
+    "brnm": "A3H8",
+    "name": "А-БАНК, Отделение \"ЦОК № 84 в г.Харьков\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.12.2010",
+      "BreDatFString": "19.12.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8056,
+    "bbpPpid": 15227,
+    "brnm": "A3H9",
+    "name": "А-БАНК, Отделение \"ЦОК № 85 в г.Харьков\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.06.2011",
+      "BreDatFString": "03.07.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "D",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8380,
+    "bbpPpid": 5259,
+    "brnm": "A31Y",
+    "name": "А-БАНК, Отделение \"ЦОК № 86 в г.Сумы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.06.2010",
+      "BreDatFString": "21.06.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8238,
+    "bbpPpid": 5259,
+    "brnm": "AN5Y",
+    "name": "А-БАНК, Отделение \"ЦОК № 87 в г.Сумы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.06.2010",
+      "BreDatFString": "01.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7915,
+    "bbpPpid": 15288,
+    "brnm": "A327",
+    "name": "А-БАНК, Отделение \"ЦОК № 88 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "25.06.2010",
+      "BreDatFString": "06.07.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8381,
+    "bbpPpid": 15288,
+    "brnm": "A328",
+    "name": "А-БАНК, Отделение \"ЦОК № 89 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.09.2010",
+      "BreDatFString": "05.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 9210,
+    "bbpPpid": 15287,
+    "brnm": "A37W",
+    "name": "А-БАНК, Отделение \"ЦОК № 8 в г.Винница\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.08.2008",
+      "BreDatFString": "03.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 5273,
+    "bbpPpid": 15223,
+    "brnm": "ABRO",
+    "name": "А-БАНК, Отделение \"ЦОК № 8 в г.Ровно\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.07.2009",
+      "BreDatFString": "11.08.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12551,
+    "bbpPpid": 15288,
+    "brnm": "A409",
+    "name": "А-БАНК, Отделение \"ЦОК № 90 в г.Кременчуг\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "28.11.2017",
+      "BreDatFString": "01.12.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7916,
+    "bbpPpid": 15288,
+    "brnm": "A329",
+    "name": "А-БАНК, Отделение \"ЦОК № 90 в г.Полтава\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "24.12.2010",
+      "BreDatFString": "05.01.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7955,
+    "bbpPpid": 15288,
+    "brnm": "A33H",
+    "name": "А-БАНК, Отделение \"ЦОК № 91 в г.Кременчуг\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.10.2010",
+      "BreDatFString": "11.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7986,
+    "bbpPpid": 15288,
+    "brnm": "A34H",
+    "name": "А-БАНК, Отделение \"ЦОК № 92 г.Кременчуг\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.01.2011",
+      "BreDatFString": "05.02.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7894,
+    "bbpPpid": 15221,
+    "brnm": "A31J",
+    "name": "А-БАНК, Отделение \"ЦОК № 93 в г.Чернигов\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.10.2010",
+      "BreDatFString": "23.10.2010"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8060,
+    "bbpPpid": 15221,
+    "brnm": "A3K4",
+    "name": "А-БАНК, Отделение \"ЦОК № 94 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.02.2017",
+      "BreDatFString": "18.02.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8063,
+    "bbpPpid": 15221,
+    "brnm": "A3K7",
+    "name": "А-БАНК, Отделение \"ЦОК № 97 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.07.2011",
+      "BreDatFString": "02.08.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8064,
+    "bbpPpid": 15221,
+    "brnm": "A3K8",
+    "name": "А-БАНК, Отделение \"ЦОК № 98 в г.Киев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "25.03.2011",
+      "BreDatFString": "04.04.2011"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 5275,
+    "bbpPpid": 15287,
+    "brnm": "ABVI",
+    "name": "А-БАНК, Отделение \"ЦОК № 9 в г.Винница\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "30.07.2009",
+      "BreDatFString": "11.08.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8408,
+    "bbpPpid": 15224,
+    "brnm": "AN3Z",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Запорожье\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.03.2009",
+      "BreDatFString": "20.03.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8158,
+    "bbpPpid": 15261,
+    "brnm": "AN3I",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Ивано-Франковск\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.10.2008",
+      "BreDatFString": "27.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8141,
+    "bbpPpid": 5259,
+    "brnm": "AN31",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Каменское\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "03.10.2008",
+      "BreDatFString": "13.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8202,
+    "bbpPpid": 15223,
+    "brnm": "AN4V",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Ковель\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "26.08.2008",
+      "BreDatFString": "07.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8264,
+    "bbpPpid": 15261,
+    "brnm": "AN6Q",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Коломыя\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.02.2009",
+      "BreDatFString": "05.03.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8165,
+    "bbpPpid": 15294,
+    "brnm": "AN3Q",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Кривой Рог\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "12.05.2009",
+      "BreDatFString": "22.05.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8151,
+    "bbpPpid": 5259,
+    "brnm": "AN3B",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Кропивницкий\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.09.2008",
+      "BreDatFString": "18.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8170,
+    "bbpPpid": 15223,
+    "brnm": "AN3V",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Луцк\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.11.2008",
+      "BreDatFString": "30.11.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8161,
+    "bbpPpid": 15225,
+    "brnm": "AN3L",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Львов\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "16.12.2008",
+      "BreDatFString": "26.12.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8203,
+    "bbpPpid": 15283,
+    "brnm": "AN4W",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Мукачево\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "29.09.2008",
+      "BreDatFString": "09.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8163,
+    "bbpPpid": 5259,
+    "brnm": "AN3N",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Николаев\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.10.2008",
+      "BreDatFString": "01.11.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8192,
+    "bbpPpid": 5259,
+    "brnm": "AN4J",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Никополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "22.09.2008",
+      "BreDatFString": "03.10.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8164,
+    "bbpPpid": 15226,
+    "brnm": "AN3O",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Одесса\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.12.2008",
+      "BreDatFString": "29.12.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8197,
+    "bbpPpid": 15222,
+    "brnm": "AN4P",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Павлоград\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "18.03.2009",
+      "BreDatFString": "28.03.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8168,
+    "bbpPpid": 15295,
+    "brnm": "AN3T",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Тернополь\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "29.08.2008",
+      "BreDatFString": "08.09.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8169,
+    "bbpPpid": 15283,
+    "brnm": "AN3U",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Ужгород\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "21.10.2008",
+      "BreDatFString": "01.11.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8407,
+    "bbpPpid": 5259,
+    "brnm": "AN3X",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Хмельницкий\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.01.2009",
+      "BreDatFString": "03.02.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "O",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8152,
+    "bbpPpid": 5259,
+    "brnm": "AN3C",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Черкассы\"",
+    "flBusiness": false,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "23.12.2008",
+      "BreDatFString": "03.01.2009"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8154,
+    "bbpPpid": 15295,
+    "brnm": "AN3E",
+    "name": "А-БАНК, Отделение \"ЦОК в г.Черновцы\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.08.2008",
+      "BreDatFString": "11.08.2008"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12566,
+    "bbpPpid": 5259,
+    "brnm": "A424",
+    "name": "А-БАНК, Ровно",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12567,
+    "bbpPpid": 5259,
+    "brnm": "A425",
+    "name": "А-БАНК, Севастополь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12568,
+    "bbpPpid": 5259,
+    "brnm": "A426",
+    "name": "А-БАНК, Симферополь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12570,
+    "bbpPpid": 5259,
+    "brnm": "A428",
+    "name": "А-БАНК, Сумы",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12572,
+    "bbpPpid": 5259,
+    "brnm": "A430",
+    "name": "А-БАНК, Тернополь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15281,
+    "bbpPpid": 5259,
+    "brnm": "A467",
+    "name": "А-БАНК, Ужгород",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15269,
+    "bbpPpid": 5259,
+    "brnm": "A455",
+    "name": "А-БАНК, Харьков",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15285,
+    "bbpPpid": 5259,
+    "brnm": "A469",
+    "name": "А-БАНК, Херсон",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "6",
+    "statusName": "6",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12575,
+    "bbpPpid": 5259,
+    "brnm": "A433",
+    "name": "А-БАНК, Хмельницкий",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15276,
+    "bbpPpid": 5259,
+    "brnm": "A462",
+    "name": "А-БАНК, Хмельницкий",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15278,
+    "bbpPpid": 5259,
+    "brnm": "A464",
+    "name": "А-БАНК, Хмельницкий",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7880,
+    "bbpPpid": 5259,
+    "brnm": "A313",
+    "name": "А-БАНК, ЦОК-156 г.Сумы Сумская  Б",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8057,
+    "bbpPpid": 15221,
+    "brnm": "A3K0",
+    "name": "А-БАНК, ЦОК №100 в г.Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "17.06.2016",
+      "BreDatFString": "25.06.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15201,
+    "bbpPpid": 5259,
+    "brnm": "AK06",
+    "name": "А-БАНК, ЦОК № 106 г. Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15203,
+    "bbpPpid": 5259,
+    "brnm": "AK10",
+    "name": "А-БАНК, ЦОК № 110 г. Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15204,
+    "bbpPpid": 5259,
+    "brnm": "AK11",
+    "name": "А-БАНК, ЦОК № 111 г. Киев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15207,
+    "bbpPpid": 5259,
+    "brnm": "AL01",
+    "name": "А-БАНК, ЦОК № 1 г. Львов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15209,
+    "bbpPpid": 5259,
+    "brnm": "AH20",
+    "name": "А-БАНК, ЦОК № 20 г. Харьков",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15212,
+    "bbpPpid": 5259,
+    "brnm": "AH21",
+    "name": "А-БАНК, ЦОК № 21 г. Харьков",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15210,
+    "bbpPpid": 5259,
+    "brnm": "AH22",
+    "name": "А-БАНК, ЦОК № 22 г. Харьков",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15211,
+    "bbpPpid": 15227,
+    "brnm": "AH24",
+    "name": "А-БАНК, ЦОК № 24 г.Харьков",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.08.2009",
+      "BreDatFString": "21.07.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 11665,
+    "bbpPpid": 5259,
+    "brnm": "A265",
+    "name": "А-БАНК, ЦОК №265 в г.Никополь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "08.07.2016",
+      "BreDatFString": "15.07.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15205,
+    "bbpPpid": 5259,
+    "brnm": "AKG2",
+    "name": "А-БАНК, ЦОК № 2 г. Кировоград",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15208,
+    "bbpPpid": 5259,
+    "brnm": "A306",
+    "name": "А-БАНК, ЦОК № 306 г. Одесса",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 7940,
+    "bbpPpid": 15224,
+    "brnm": "A330",
+    "name": "А-БАНК, ЦОК №330 в г.Запорожье",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "13.05.2016",
+      "BreDatFString": "27.05.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15206,
+    "bbpPpid": 5259,
+    "brnm": "AL33",
+    "name": "А-БАНК, ЦОК № 33 г. Львов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15198,
+    "bbpPpid": 5259,
+    "brnm": "AZ36",
+    "name": "А-БАНК, ЦОК № 36 г. Запорожье",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15199,
+    "bbpPpid": 5259,
+    "brnm": "AZ03",
+    "name": "А-БАНК, ЦОК № 3 в г. Каменское",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12560,
+    "bbpPpid": 15289,
+    "brnm": "A418",
+    "name": "А-БАНК, ЦОК №418 в г.Мариуполь",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "19.08.2016",
+      "BreDatFString": "18.08.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12561,
+    "bbpPpid": 5259,
+    "brnm": "A419",
+    "name": "А-БАНК, ЦОК №419 в г.Николаев",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "10.06.2016",
+      "BreDatFString": "18.06.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15195,
+    "bbpPpid": 5259,
+    "brnm": "AD51",
+    "name": "А-БАНК, ЦОК № 51 г. Днепр",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15196,
+    "bbpPpid": 5259,
+    "brnm": "AD53",
+    "name": "А-БАНК, ЦОК № 53 г. Днепр",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15193,
+    "bbpPpid": 5259,
+    "brnm": "AD58",
+    "name": "А-БАНК, ЦОК № 58 г. Днепр",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "9",
+    "statusName": "9",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "14.12.2017"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 8014,
+    "bbpPpid": 15261,
+    "brnm": "A35I",
+    "name": "А-БАНК, ЦОК №5 в г. Ивано-Франковске",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "05.05.2016",
+      "BreDatFString": "14.05.2016"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12577,
+    "bbpPpid": 5259,
+    "brnm": "A435",
+    "name": "А-БАНК, Чернигов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12578,
+    "bbpPpid": 5259,
+    "brnm": "A436",
+    "name": "А-БАНК, Чернигов",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15293,
+    "bbpPpid": 15294,
+    "brnm": "A474",
+    "name": "ВIДДIЛЕННЯ \"ЦОК №474 В М.КРИВИЙ РІГ\"",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "5",
+    "statusName": "5",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "05.12.2018",
+      "BreDatFString": "07.12.2018"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15286,
+    "bbpPpid": 5259,
+    "brnm": "A470",
+    "name": "Івано Франківськ",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15296,
+    "bbpPpid": 5259,
+    "brnm": "A475",
+    "name": "Миколаїв",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "6",
+    "statusName": "6",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15297,
+    "bbpPpid": 5259,
+    "brnm": "A476",
+    "name": "Миколаїв",
+    "flBusiness": true,
+    "balPtype": "Б",
+    "balPtypePrev": "0",
+    "status": "6",
+    "statusName": "6",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12549,
+    "bbpPpid": 5259,
+    "brnm": "A407",
+    "name": "А-БАНК, Краматорск",
+    "flBusiness": true,
+    "balPtype": "В",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12557,
+    "bbpPpid": 5259,
+    "brnm": "A415",
+    "name": "А-БАНК, Луцк",
+    "flBusiness": true,
+    "balPtype": "В",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12565,
+    "bbpPpid": 5259,
+    "brnm": "A423",
+    "name": "А-БАНК, Ровно",
+    "flBusiness": true,
+    "balPtype": "В",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 15277,
+    "bbpPpid": 5259,
+    "brnm": "A463",
+    "name": "А-БАНК, Хмельницкий",
+    "flBusiness": true,
+    "balPtype": "В",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  },
+  {
+    "id": 12581,
+    "bbpPpid": 5259,
+    "brnm": "A439",
+    "name": "А-БАНК, Черновцы",
+    "flBusiness": true,
+    "balPtype": "В",
+    "balPtypePrev": "0",
+    "status": "7",
+    "statusName": "7",
+    "rerp": {
+      "id": 0,
+      "BreDatRString": "01.01.1900",
+      "BreDatFString": "01.01.1900"
+    },
+    "capf": {
+      "bbnBnmn": "AB",
+      "bcaFl2": "\u0026nbsp;",
+      "bcaFl4": "\u0026nbsp;",
+      "flpb": {
+        "flmn": "AB"
+      }
+    },
+    "bprpLevel": 0
+  }
+]

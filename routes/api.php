@@ -17,7 +17,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('/get-service-points', function () {
-    return 'ss';
-});
+Route::get('/get-service-points', 'ServicePointsController@getServicePoints');
+Route::get('/createPoint', 'ServicePointsController@createPoint');
+Route::post('/createGroup', 'ServicePointsController@createGroup');
 
