@@ -13,7 +13,7 @@ class CreatePointRequest extends FormRequest
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -24,7 +24,17 @@ class CreatePointRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            "name"=>[
+                "required"
+            ],
+            "state_id"=>[
+                "required",
+                "in:active,inactive"
+            ],
+            "group_id"=>[
+                "required",
+                "exists:sp_groups,id"
+            ],
         ];
     }
 }

@@ -13,7 +13,7 @@ class CreateGroupRequest extends FormRequest
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -24,7 +24,17 @@ class CreateGroupRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            "name"=>[
+                "required"
+            ],
+            "state_id"=>[
+                "required",
+                "in:active,inactive"
+            ],
+            "type_id"=>[
+                "required",
+                "in:cashbox,operating_room"
+            ],
         ];
     }
 }

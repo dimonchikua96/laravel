@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\SP\CreateGroupRequest;
 use App\Http\Requests\SP\CreatePointRequest;
 use App\Models\SP\GroupsModel;
 use App\Models\SP\PointsModel;
@@ -12,7 +13,6 @@ class ServicePointsController extends Controller
 {
     public function createPoint(CreatePointRequest $request)
     {
-
         $point = new PointsModel;
 
         $point->code = Carbon::now()->format('dmy') . 'SP' . str_random(12);
@@ -25,22 +25,25 @@ class ServicePointsController extends Controller
 
         $point->save();
 
+        return ['status'=>'ok'];
+
     }
 
-    public function createGroup()
+    public function createGroup(CreateGroupRequest $request)
     {
+        $point = new GroupsModel;
 
-        DB::table('sp_groups')->insert([
-            'name' => $item['name'],
-            'state_id' => array_random(['active', 'inactive']),
-            'type_id' => $type,
-            'branch' => $item['brnm'],
-            'created_at' => Carbon::now()->format('Y-m-d H:i:s')
-        ]);
+        $point->name = $request->name;
+        $point->state_id = $request->state_id;
+        $point->type_id = $request->type_id;
+        $point->branch = $request->branch;
 
+        $point->save();
+
+        return ['status'=>'ok'];
     }
 
-    public function getServicePoints()
+    public function getPoints()
     {
 
         $groups = GroupsModel::all()->toArray();
