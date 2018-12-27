@@ -7,10 +7,13 @@ use App\Http\Requests\SP\CreatePointRequest;
 use App\Models\SP\GroupsModel;
 use App\Models\SP\PointsModel;
 use Carbon\Carbon;
-use Illuminate\Support\Facades\DB;
 
 class ServicePointsController extends Controller
 {
+    public function selectPoint(){
+
+    }
+
     public function createPoint(CreatePointRequest $request)
     {
         $point = new PointsModel;
