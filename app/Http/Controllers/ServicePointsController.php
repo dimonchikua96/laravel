@@ -4,16 +4,48 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\SP\CreateGroupRequest;
 use App\Http\Requests\SP\CreatePointRequest;
+use App\Http\Requests\SP\GetPointsRequest;
+use App\Http\Requests\SP\SelectPointRequest;
 use App\Models\SP\GroupsModel;
 use App\Models\SP\PointsModel;
 use Carbon\Carbon;
+use Illuminate\Support\Facades\DB;
 
+/**
+ * Class ServicePointsController
+ * @package App\Http\Controllers
+ */
 class ServicePointsController extends Controller
 {
-    public function selectPoint(){
+    /**
+     * @param SelectPointRequest $request
+     * @return array
+     */
+    public function selectPoint(SelectPointRequest $request)
+    {
+        //todo fetch user here
+        $user = $request->user;
+
+        DB::transaction(function () use ($user, $request) {
+            DB::table('sp_points')
+                ->where('operator_ldap', $user)
+                ->update(['operator_ldap' => null, 'operator_date' => null]);
+
+            DB::table('sp_points')
+                ->where('code', $request->id)
+                ->update(['operator_ldap' => $user, 'operator_date' => Carbon::now()]);
+
+        }, 5);
+
+
+        return ['status' => 'ok'];;
 
     }
 
+    /**
+     * @param CreatePointRequest $request
+     * @return array
+     */
     public function createPoint(CreatePointRequest $request)
     {
         $point = new PointsModel;
@@ -28,10 +60,13 @@ class ServicePointsController extends Controller
 
         $point->save();
 
-        return ['status'=>'ok'];
-
+        return ['status' => 'ok'];
     }
 
+    /**
+     * @param CreateGroupRequest $request
+     * @return array
+     */
     public function createGroup(CreateGroupRequest $request)
     {
         $point = new GroupsModel;
@@ -43,14 +78,30 @@ class ServicePointsController extends Controller
 
         $point->save();
 
-        return ['status'=>'ok'];
+        return ['status' => 'ok'];
     }
 
-    public function getPoints()
+    /**
+     * @param GetPointsRequest $request
+     * @return mixed
+     */
+    public function getPoints(GetPointsRequest $request)
     {
 
-        $groups = GroupsModel::all()->toArray();
-        $points = PointsModel::all()->toArray();
+        $groupsModel = GroupsModel::select();
+        $pointsModel = PointsModel::select();
+
+        if ($request->exists('state')) {
+            $groupsModel->where(['state_id' => $request->get('state')]);
+            $pointsModel->where(['state_id' => $request->get('state')]);
+        }
+
+        if ($request->exists('branch')) {
+            $groupsModel->where(['branch' => $request->get('branch')]);
+        }
+
+        $groups = $groupsModel->get()->toArray();
+        $points = $pointsModel->get()->toArray();
 
         $point_groups = [];
 

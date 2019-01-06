@@ -20,4 +20,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::get('get-service-points', 'ServicePointsController@getPoints');
 Route::post('create-service-point', 'ServicePointsController@createPoint');
 Route::post('create-service-group', 'ServicePointsController@createGroup');
+Route::post('select-point', 'ServicePointsController@selectPoint');
 

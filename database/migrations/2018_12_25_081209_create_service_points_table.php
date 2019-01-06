@@ -20,8 +20,8 @@ class CreateServicePointsTable extends Migration
             $table->string('state_id',20);
             $table->integer('group_id');
 
-            $table->string('operator_ldap',15);
-            $table->dateTime('operator_date');
+            $table->string('operator_ldap',15)->nullable()->unique()->default(null);
+            $table->dateTime('operator_date')->nullable()->default(null);
             $table->integer('sort_order');
             $table->timestamps();
 
