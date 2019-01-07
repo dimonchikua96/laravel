@@ -22,3 +22,9 @@ Route::post('create-service-point', 'ServicePointsController@createPoint');
 Route::post('create-service-group', 'ServicePointsController@createGroup');
 Route::post('select-point', 'ServicePointsController@selectPoint');
 
+
+
+
+Route::get('service-points', function (){
+    return view('service_points');
+});
